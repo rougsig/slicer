@@ -1,0 +1,11 @@
+[error]	2025-09-20 21:50:20.396396[Thread 0x00007f74489ff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-20 21:50:20.659664[Thread 0x00007f74b3f90a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-20 21:50:20.859575[Thread 0x00007f74b3f90a00]:09:50:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-20 21:50:20.877958[Thread 0x00007f74b3f90a00]:09:50:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-20 21:50:20.879291[Thread 0x00007f74b3f90a00]:09:50:20 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-20 21:50:20.879505[Thread 0x00007f74b3f90a00]:09:50:20 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-20 21:50:21.398363[Thread 0x00007f74b3f90a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-20 21:50:21.407486[Thread 0x00007f74b3f90a00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-20 21:50:29.721575[Thread 0x00007f74b3f90a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-20 21:50:32.831384[Thread 0x00007f72ef1ff6c0]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[error]	2025-09-20 21:50:36.843669[Thread 0x00007f74b3f90a00]:calc_exclude_triangles:Unable to create exclude triangles

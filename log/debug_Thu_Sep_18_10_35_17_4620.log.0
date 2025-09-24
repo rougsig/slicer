@@ -1,0 +1,70 @@
+[error]	2025-09-18 10:35:19.270075[Thread 0x00007f1e051ff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-18 10:35:19.547456[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-18 10:35:19.713995[Thread 0x00007f1e89047a00]:10:35:19 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-18 10:35:19.746729[Thread 0x00007f1e89047a00]:10:35:19 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-18 10:35:19.747736[Thread 0x00007f1e89047a00]:10:35:19 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-18 10:35:19.747958[Thread 0x00007f1e89047a00]:10:35:19 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-18 10:35:20.332780[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-18 10:35:20.341232[Thread 0x00007f1e89047a00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-18 10:35:38.636866[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-18 10:35:53.457858[Thread 0x00007f1e89047a00]:10:35:53 AM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-18 10:35:53.457873[Thread 0x00007f1e89047a00]:10:35:53 AM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".
+[warning]	2025-09-18 10:36:20.871562[Thread 0x00007f1c747f26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 10:36:20.890465[Thread 0x00007f1c747f26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 10:36:20.898894[Thread 0x00007f1e77fff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 10:36:20.917388[Thread 0x00007f1c75bf76c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 10:36:20.927299[Thread 0x00007f1c75ff86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 10:36:20.929416[Thread 0x00007f1c747f26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-09-18 10:37:05.640842[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 10:37:28.442094[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 10:38:08.538192[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 10:39:14.687328[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 12:58:28.064550[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:02.679702[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:04.260960[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:07.610973[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:07.992159[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:08.649892[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:08.958469[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:09.623355[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:09.914589[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:10.646667[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:10.993106[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:13.187380[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:13.345653[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 12:59:17.679290[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:00:27.137887[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 13:00:27.280548[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:00:27.340821[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:00:27.345673[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:00:56.177935[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:01:00.106211[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:01:15.876272[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 13:01:21.451573[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:21:17.216927[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:21:22.768058[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 13:21:22.902104[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:21:22.948552[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 13:21:22.954100[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:20:34.684057[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 14:24:24.725710[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:28.765762[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:28.810698[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:28.816484[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:29.384045[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:47.593221[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:49.456675[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:24:50.455703[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 14:57:39.925189[Thread 0x00007f1e89047a00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-09-18 15:55:22.497876[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-18 15:55:41.070761[Thread 0x00007f1e89047a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-18 18:00:53.395145[Thread 0x00007f1e89047a00]:06:00:53 PM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-18 18:00:53.395166[Thread 0x00007f1e89047a00]:06:00:53 PM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".
+[warning]	2025-09-18 18:01:42.931287[Thread 0x00007f1cca1ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 18:01:42.949092[Thread 0x00007f1e77fff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 18:01:42.963688[Thread 0x00007f1cca1ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 18:01:42.968326[Thread 0x00007f1c773fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 18:01:42.973441[Thread 0x00007f1c757f66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 18:01:42.984475[Thread 0x00007f1c773fd6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2025-09-18 19:48:19.375951[Thread 0x00007f1e89047a00]:07:48:19 PM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-18 19:48:19.375966[Thread 0x00007f1e89047a00]:07:48:19 PM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".

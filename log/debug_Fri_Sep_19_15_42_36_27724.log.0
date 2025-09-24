@@ -1,0 +1,16 @@
+[error]	2025-09-19 15:42:38.262246[Thread 0x00007f57743ff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-19 15:42:38.533145[Thread 0x00007f57f5f8ea00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 15:42:38.736724[Thread 0x00007f57f5f8ea00]:03:42:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 15:42:38.739258[Thread 0x00007f57f5f8ea00]:03:42:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 15:42:38.740250[Thread 0x00007f57f5f8ea00]:03:42:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-19 15:42:38.757981[Thread 0x00007f57f5f8ea00]:03:42:38 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-19 15:42:39.262834[Thread 0x00007f57f5f8ea00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 15:42:39.272721[Thread 0x00007f57f5f8ea00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-19 15:42:44.958188[Thread 0x00007f57f5f8ea00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-19 15:43:58.157053[Thread 0x00007f57f5f8ea00]:03:43:58 PM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-19 15:43:58.157069[Thread 0x00007f57f5f8ea00]:03:43:58 PM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".
+[warning]	2025-09-19 15:44:35.200964[Thread 0x00007f57f5f8ea00]:03:44:35 PM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-19 15:44:35.200979[Thread 0x00007f57f5f8ea00]:03:44:35 PM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".
+[warning]	2025-09-19 15:44:56.211285[Thread 0x00007f57f5f8ea00]:03:44:56 PM: Error: can't open file '/usr/resources/images/BambuStudioTitle.ico' (error 2: No such file or directory)
+[warning]	2025-09-19 15:44:56.211299[Thread 0x00007f57f5f8ea00]:03:44:56 PM: Error: Failed to load image from file "/usr/resources/images/BambuStudioTitle.ico".
+[error]	2025-09-19 15:45:08.926526[Thread 0x00007f57f5f8ea00]:calc_exclude_triangles:Unable to create exclude triangles

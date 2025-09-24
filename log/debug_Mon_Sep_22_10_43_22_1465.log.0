@@ -1,0 +1,9 @@
+[error]	2025-09-22 10:43:23.911079[Thread 0x00007fb8437ff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-22 10:43:24.207915[Thread 0x00007fb8d02d6a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-22 10:43:24.396740[Thread 0x00007fb8d02d6a00]:10:43:24 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-22 10:43:24.407316[Thread 0x00007fb8d02d6a00]:10:43:24 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-22 10:43:24.408279[Thread 0x00007fb8d02d6a00]:10:43:24 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-22 10:43:24.410349[Thread 0x00007fb8d02d6a00]:10:43:24 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-22 10:43:24.938121[Thread 0x00007fb8d02d6a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-22 10:43:24.947770[Thread 0x00007fb8d02d6a00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-22 10:49:36.141246[Thread 0x00007fb8d02d6a00]:calc_exclude_triangles:Unable to create exclude triangles

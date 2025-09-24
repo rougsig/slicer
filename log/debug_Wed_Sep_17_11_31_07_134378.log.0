@@ -1,0 +1,13 @@
+[warning]	2025-09-17 11:31:07.967059[Thread 0x00007f5bfd1a9a00]:Failed to load to hints.cereal. File does not exists. /home/rougsig/.config/OrcaSlicer/user/hints.cereal
+[error]	2025-09-17 11:31:09.671269[Thread 0x00007f5b6e5fe6c0]:Unable to open connection to spacenavd
+[error]	2025-09-17 11:31:09.903173[Thread 0x00007f5bfd1a9a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-17 11:31:10.839834[Thread 0x00007f5bfd1a9a00]:11:31:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-17 11:31:10.864586[Thread 0x00007f5bfd1a9a00]:11:31:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-17 11:31:10.865507[Thread 0x00007f5bfd1a9a00]:11:31:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-17 11:31:10.869078[Thread 0x00007f5bfd1a9a00]:11:31:10 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-17 11:31:11.580823[Thread 0x00007f5bfd1a9a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-17 11:31:11.931418[Thread 0x00007f5bfd1a9a00]:11:31:11 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-17 11:31:50.825100[Thread 0x00007f5bfd1a9a00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-17 11:31:50.832126[Thread 0x00007f5bfd1a9a00]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-09-17 11:31:51.745096[Thread 0x00007f5bfd1a9a00]:11:31:51 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-17 11:32:03.421006[Thread 0x00007f5bfd1a9a00]:calc_exclude_triangles:Unable to create exclude triangles

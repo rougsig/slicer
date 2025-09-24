@@ -1,0 +1,74 @@
+[error]	2025-09-21 11:16:09.756187[Thread 0x00007fe2bc9ff6c0]:Unable to open connection to spacenavd
+[error]	2025-09-21 11:16:09.964402[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-21 11:16:10.084327[Thread 0x00007fe3288dda00]:11:16:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-21 11:16:10.114772[Thread 0x00007fe3288dda00]:11:16:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-21 11:16:10.115815[Thread 0x00007fe3288dda00]:11:16:10 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-09-21 11:16:10.116084[Thread 0x00007fe3288dda00]:11:16:10 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-09-21 11:16:10.617373[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-21 11:16:10.625434[Thread 0x00007fe3288dda00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-21 11:16:21.638555[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.759000[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.768448[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.777118[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.785219[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.792950[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.793774[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.794470[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.801559[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.808643[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.815659[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.822616[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.829788[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.830489[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.831139[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.831763[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.832478[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.833142[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.833776[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.840628[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.847480[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.854273[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.861346[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.868259[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.875171[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.881979[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.882747[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.883426[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.884045[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.884665[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.885293[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.885913[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.886537[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.887151[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.887827[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.888498[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.889129[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.889766[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.896715[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.903633[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-21 11:16:21.910562[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-21 11:16:21.919810[Thread 0x00007fe3288dda00]:validate_preset: preset_name Bambu Lab P1S 0.4 nozzle, no inherit, set to not found
+[warning]	2025-09-21 11:16:21.919820[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the printer preset not inherit from system
+[warning]	2025-09-21 11:16:21.919826[Thread 0x00007fe3288dda00]:validate_preset: preset_name Prusament PLA - GS - STILLE, inherit_name Generic PLA, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919828[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919833[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919834[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919836[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919836[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919838[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919838[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919840[Thread 0x00007fe3288dda00]:validate_preset: preset_name Prusament PLA - GS - STILLE, inherit_name Generic PLA, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919840[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 5 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919841[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919842[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 6 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919843[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919844[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 7 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919845[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919846[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 8 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919847[Thread 0x00007fe3288dda00]:validate_preset: preset_name GS - Bambu PLA Basic - STILLE, inherit_name Bambu PLA Basic @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919848[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 9 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919849[Thread 0x00007fe3288dda00]:validate_preset: preset_name PolyTerra PLA - GS - STILLE, inherit_name PolyTerra PLA @BBL X1C, can not found preset and inherit in list
+[warning]	2025-09-21 11:16:21.919850[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found the filament 10 preset not inherit from system
+[warning]	2025-09-21 11:16:21.919851[Thread 0x00007fe3288dda00]:validate_presets:file_name Box Lite - 0.8 - 2x.3mf, found self defined presets, count 4
+[warning]	2025-09-21 11:16:50.428914[Thread 0x00007fe261bff6c0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2025-09-21 11:17:11.184145[Thread 0x00007fe3288dda00]:calc_exclude_triangles:Unable to create exclude triangles

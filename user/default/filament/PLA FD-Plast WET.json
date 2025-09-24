@@ -1,0 +1,25 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 Pro 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.9"
+    ],
+    "filament_max_volumetric_speed": [
+        "4"
+    ],
+    "filament_settings_id": [
+        "PLA FD-Plast WET"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA @System",
+    "is_custom_defined": "0",
+    "name": "PLA FD-Plast WET",
+    "version": "2.3.0.4"
+}
