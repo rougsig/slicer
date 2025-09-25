@@ -1,3 +1,0 @@
-[warning]	2025-09-17 11:26:56.625404[Thread 0x00007f3256d12a00]:Failed to load to hints.cereal. File does not exists. /home/rougsig/.config/OrcaSlicer/user/hints.cereal
-[error]	2025-09-17 11:26:57.872565[Thread 0x00007f31de1fd6c0]:Unable to open connection to spacenavd
-[error]	2025-09-17 11:26:58.110104[Thread 0x00007f3256d12a00]:calc_exclude_triangles:Unable to create exclude triangles
