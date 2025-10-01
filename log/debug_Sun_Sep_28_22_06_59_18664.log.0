@@ -1,0 +1,8 @@
+[error]	2025-09-28 22:07:01.182888[Thread 0x000037e8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 22:07:01.184888[Thread 0x0000252c]:Unable to open the file/home/rougsig/Downloads/DrillGuide.3MF
+[error]	2025-09-28 22:07:01.186757[Thread 0x000037e8]:Unable to open the file/home/rougsig/Desktop/haruko/printer/gridfinity/Box Lite - 0.8 - 2x.3mf
+[error]	2025-09-28 22:07:02.135828[Thread 0x000037e8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-09-28 22:07:02.211243[Thread 0x000037e8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-09-28 22:07:03.336049[Thread 0x000037e8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 22:07:08.626950[Thread 0x000037e8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-09-28 22:07:37.922050[Thread 0x000037e8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
