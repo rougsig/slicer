@@ -1,6 +1,0 @@
-[error]	2025-09-30 12:15:24.188242[Thread 0x00002c38]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-09-30 12:15:24.195889[Thread 0x000011d8]:Unable to open the file/home/rougsig/Desktop/haruko/printer/gridfinity/Box Lite - 0.8 - 2x.3mf
-[error]	2025-09-30 12:15:24.195889[Thread 0x000043a4]:Unable to open the file/home/rougsig/Downloads/DrillGuide.3MF
-[error]	2025-09-30 12:15:24.204082[Thread 0x00002c38]:File Metadata/plate_1.png not found from archive
-[warning]	2025-09-30 12:15:25.910188[Thread 0x00002c38]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2025-09-30 12:15:27.253804[Thread 0x00002c38]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

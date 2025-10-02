@@ -1,8 +1,0 @@
-[error]	2025-09-30 21:44:26.378874[Thread 0x00005bc0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-09-30 21:44:26.385516[Thread 0x000027fc]:Unable to open the file/home/rougsig/Downloads/DrillGuide.3MF
-[error]	2025-09-30 21:44:26.385516[Thread 0x000011d8]:Unable to open the file/home/rougsig/Desktop/haruko/printer/gridfinity/Box Lite - 0.8 - 2x.3mf
-[error]	2025-09-30 21:44:26.386516[Thread 0x00005bc0]:File Metadata/plate_1.png not found from archive
-[warning]	2025-09-30 21:44:27.408575[Thread 0x00005bc0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2025-09-30 21:44:29.779095[Thread 0x00005bc0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2025-09-30 21:44:35.252701[Thread 0x00005bc0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2025-09-30 21:44:36.612238[Thread 0x00003880]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
