@@ -1,0 +1,11 @@
+[error]	2025-10-04 10:20:44.906714[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-04 10:20:44.914717[Thread 0x00003498]:Unable to open the file/home/rougsig/Downloads/DrillGuide.3MF
+[error]	2025-10-04 10:20:44.914717[Thread 0x00001e3c]:Unable to open the file/home/rougsig/Desktop/haruko/printer/gridfinity/Box Lite - 0.8 - 2x.3mf
+[error]	2025-10-04 10:20:44.922716[Thread 0x000020a4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-04 10:20:46.483145[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-04 10:20:46.550388[Thread 0x000007a0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-04 10:20:48.388579[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-04 10:20:57.836039[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-04 10:21:08.216261[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-04 10:21:58.353262[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-04 10:22:32.956733[Thread 0x000007a0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

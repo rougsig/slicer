@@ -3,7 +3,7 @@
         "235x235"
     ],
     "deretraction_speed": [
-        "35"
+        "15"
     ],
     "from": "User",
     "gcode_flavor": "klipper",
@@ -16,7 +16,7 @@
         "0.5"
     ],
     "retraction_speed": [
-        "35"
+        "15"
     ],
     "version": "2.3.0.3"
 }
