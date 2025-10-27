@@ -1,0 +1,16 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 Pro 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.92"
+    ],
+    "filament_settings_id": [
+        "ABS FD-Plast"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS @System",
+    "is_custom_defined": "0",
+    "name": "ABS FD-Plast",
+    "version": "2.3.0.4"
+}
