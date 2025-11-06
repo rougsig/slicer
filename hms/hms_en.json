@@ -38,22 +38,6 @@
                 "intro": "The firmware of AMS B does not match the printer; the device cannot continue working. Please update it on the \"Firmware\" page."
             },
             {
-                "ecode": "0C00402C",
-                "intro": "Device data link error. Please reboot the printer"
-            },
-            {
-                "ecode": "05004031",
-                "intro": "The accessory firmware does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
-                "ecode": "07FF8007",
-                "intro": "Please observe the nozzle. If the filament has been extruded, select \"Done\"; if it has not, please push the filament forward slightly, and then select \"Retry\"."
-            },
-            {
-                "ecode": "05004033",
-                "intro": "The AMS firmware does not match the printer. Please update it on the \"Firmware\" page."
-            },
-            {
                 "ecode": "03008013",
                 "intro": "Printing paused due to the pause command added to the printing file."
             },
@@ -1950,7 +1934,7 @@
                 "intro": "The cutter is stuck. Please make sure the cutter handle is out and check the filament sensor cable connection."
             }
         ],
-        "ver": 202510271800
+        "ver": 202510301800
     },
     "device_hms": {
         "en": [
@@ -18555,7 +18539,7 @@
                 "intro": "External disturbance was detected on the heatbed acceleeration sensor. The sensor signal wire may not be affixed."
             }
         ],
-        "ver": 202510271800
+        "ver": 202510301800
     },
-    "version": "202510271800"
+    "version": "202510301800"
 }
